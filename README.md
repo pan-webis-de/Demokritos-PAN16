@@ -1,5 +1,5 @@
 # NCSR Demokritos submission to PAN2016 Author Profiling Task.
-Check out also ourlast year's submission for [PAN15](https://github.com/iit-Demokritos/pangram)
+Check out also our last year's submission for [PAN15](https://github.com/iit-Demokritos/pangram)
 
 ## Installation:
 
