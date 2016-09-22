@@ -1,0 +1,6 @@
+INFO:tictacs.parse:created tictac object from recipe config/recipes/age.yml
+INFO:tictacs.parse:Reading recipe from file: config/recipes/age.yml..
+INFO:tictacs.parse:Added entry preprocess..
+INFO:tictacs.parse:Added entry tfidf..
+INFO:tictacs.parse:Added entry svm..
+INFO:tictacs.parse:Added entry soac..
